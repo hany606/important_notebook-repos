@@ -6,3 +6,4 @@ This is a collection for useful and important notebooks from different sources.<
 <br/>[Jetsonhacks](https://github.com/jetsonhacks)
 <br/>[Jetsonhacksnano](https://github.com/JetsonHacksNano)
 <br/>[Great Udacity's employee(Karim Chammaa repo](https://github.com/karimchamaa?tab=repositories)
+<br/>[Best Practices for ROS](https://github.com/leggedrobotics/ros_best_practices/tree/master/ros_package_template)
