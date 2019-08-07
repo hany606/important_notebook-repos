@@ -9,3 +9,4 @@ This is a collection for useful and important notebooks from different sources.<
 <br/>[Best Practices for ROS](https://github.com/leggedrobotics/ros_best_practices)
 <br/>[Collection of notebooks](https://github.com/marknabil/learningandtesting)
 <br/>[Very important and good collection for SLAM Algorithms](https://github.com/marknabil/SFM-Visual-SLAM)
+<br/>[Awsome robotics list [Check the other lists too in the end of the readme file]](https://github.com/jslee02/awesome-robotics-libraries)
