@@ -12,3 +12,4 @@ This is a collection for useful and important notebooks from different sources.<
 <br/>[Awsome robotics list [Check the other lists too in the end of the readme file]](https://github.com/jslee02/awesome-robotics-libraries)
 <br/>[Awsome visual SLAM list](https://github.com/tzutalin/awesome-visual-slam)
 <br/>[Great OpenCV projects](https://github.com/rchavezj/OpenCV_Projects)
+<br/>[Machine learning sources](https://github.com/lazyprogrammer/machine_learning_examples)
